@@ -58,7 +58,7 @@ var defaultQuestions = [
 "Would you say you are shy?",
 "Are there any traits in people you really hate?",
 "Can you do an impersonation of me?",
-"If I'd asked the girl in the electric blue prom dress do go to the dance with me, would she have said yes?",  
+"If I'd asked the girl in the electric blue prom dress do go to the dance with me, would she have said yes?"  
 ];
 
 var questions = [];
@@ -106,4 +106,5 @@ input.value = defaultQuestions.join("\n");
 loadQuestionsFromInput();
 
 });
+
 
