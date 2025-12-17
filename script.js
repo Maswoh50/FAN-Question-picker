@@ -50,7 +50,15 @@ var defaultQuestions = [
 "If we were to go on a second date, would you sort your commitment issues?",
 "Are you still underrated?",
 "Are you single?",
-"Would you ever date a vegan?"
+"Would you ever date a vegan?",
+"When the base drops, do you know what to do?",
+"Were you troublesome when you grew up?",
+"Would you refer to yourself as sexy?",
+"Do you go to the gym?",
+"Would you say you are shy?",
+"Are there any traits in people you really hate?",
+"Can you do an impersonation of me?",
+"If I'd asked the girl in the electric blue prom dress do go to the dance with me, would she have said yes?",  
 ];
 
 var questions = [];
@@ -98,3 +106,4 @@ input.value = defaultQuestions.join("\n");
 loadQuestionsFromInput();
 
 });
+
